@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "Project management app",
+  "version": "1.0.0",
+  
+  
+  "app": {
+  "urls": [
+    "http://mysubdomain.example.com/"
+  ],
+  "launch": {
+    "web_url": "http://268864776090-ltnggc4pcsd411f9ngbi3008ogkdbb34.apps.googleusercontent.com/index.html"
+  }
+}
+}
+
